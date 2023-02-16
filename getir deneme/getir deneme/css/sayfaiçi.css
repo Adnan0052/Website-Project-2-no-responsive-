@@ -1,0 +1,291 @@
+.solakaydırma{
+    position: absolute;
+    top: 220px;
+    left: 1000px;
+    font-size: 18px;
+    color: white;
+}
+
+.sagakaydırma{
+    position: absolute;
+    top: -50px;
+    right: 1050px;
+    color: white;
+}
+
+.yazıcubugu{
+    width: 55%;
+    padding: 16px 20px;
+    font-size: 16px;
+    border: solid grey 1px;
+}
+
+.bolum3{
+    width: 99,99%;
+    height: 1000px;
+    background-color: rgb(239, 239, 239);
+    
+}
+
+.tablo1{
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    border-radius: 2%;
+    padding: 10px;
+}
+
+.beyazkutu{
+    width: 75%;
+    height: 300px;
+    border: 1px solid red;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+
+}
+
+.beyazkutu2{
+    width: 1000px;
+    height: 200px;
+    border: 1px solid red;
+    display: flex;
+}
+
+.yazıtablosu{
+    width: 1320px;
+    height: 40px;
+    margin-left: 120px;
+    margin-right: 120px;
+    font-family: "Open Sans, Helvetica Neue, Helvetica, Arial,sans-serif";
+}
+
+.buttontablosu{
+    width: 1320px;
+    height: 270px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: "Open Sans, Helvetica Neue, Helvetica, Arial,sans-serif";
+}
+
+.bolum3ici{
+    width: 1320px;
+    height: 45px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.bolum3resim{
+    width: 1320px;
+    height: 225px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.bolum3indir{
+    width: 1320px;
+    height: 290px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #5D3EBC;
+    border-radius: 10px;
+}
+
+.bolum3yazı{
+    width: 200px;
+    height: 40px;
+    color: white;
+    padding: 30px 60px;
+}
+
+.bolum3yazı2{
+    width: 300px;
+    height: 40px;
+    color: white;
+    margin-left: 60px;
+}
+
+.bolum3indirmeresmi{
+    width: 500px;
+    height: 100px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.divicidiv{
+    width: 400px;
+    height: 150px;
+}
+
+.alttablo1{
+    width: 400px;
+    height: 353px;
+    margin-right: 58px;
+    border-radius: 10px;
+    justify-content: space-between;
+    background-color: white;
+    text-align: center;
+}
+
+.alttablo2{
+    width: 400px;
+    height: 353px;
+    margin-right: 58px;
+    border-radius: 10px;
+    justify-content: space-between;
+    background-color: white;
+    text-align: center;
+}
+
+.alttablo3{
+    width: 400px;
+    height: 353px;
+    background-color: white;
+    border-radius: 10px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.alttablotumu{
+    width: 1320px;
+    height: 353px;
+    margin-top: 70px;
+    border-radius: 10px;
+    display: flex;
+    
+
+}
+
+.button1{
+    background-color: #610f8a;
+    text-decoration: none;
+    width: 90px;
+    height:40px;
+    color:white;
+    border-radius: 7%;
+    margin-left: 100px;
+    margin-top: 10px;
+    border: none;
+}
+
+.button1:hover{
+    color: yellow;
+    background-color: 8000bf;
+}
+
+.button2{
+    background-color: #610f8a;
+    text-decoration: none;
+    width: 100px;
+    height:40px;
+    color:white;
+    border-radius: 7%;
+    margin-top: 10px;
+    border: none;
+}
+
+.button2:hover{
+    color: yellow;
+    background-color: 8000bf;
+}
+
+.button3{
+    background-color: #610f8a;
+    text-decoration: none;
+    width: 100px;
+    height:40px;
+    color:white;
+    border-radius: 7%;
+    margin-top: 10px;
+    border: none;
+    margin-left:600px ;
+}
+
+.button3:hover{
+    color: yellow;
+    background-color: 8000bf;
+}
+
+.button4{
+    background-color: yellow;
+    text-decoration: none;
+    width: 325px;
+    height: 40px;
+    color: #610f8a;
+    border-radius: 2%;
+    margin-top: 10px;
+    border: none;
+}
+
+.button4:hover{
+    color: yellow;
+    background-color: #610f8a;
+}
+
+
+.beyazbuton{
+    background-color: white;
+    text-decoration: none;
+    width: 110px;
+    height:110px;
+    color:black;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: none;
+}
+
+.beyazbuton:hover{
+    color: #610f8a;
+    background-color: #de9dff;
+}
+
+.yazı1{
+    font-size: 36px;
+    margin: 41px 0px 4px;
+}
+
+.yazı1metin{
+    width: 300px;
+    height: 200px;
+}
+
+h3{
+    font-family: "Open Sans, Helvetica Neue, Helvetica, Arial,sans-serif";
+}
+
+body{
+    margin: 0;
+}
+
+p{
+    color: black;
+}
+
+select{
+    width: 23%;
+    padding: 16px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    background-color: white;
+    border: solid grey 1px;
+}
+
+h2{
+    font-family: "Open Sans, Helvetica Neue, Helvetica, Arial,sans-serif";
+}
+
+.baslık{
+    background-color: #610f8a;
+    width: 100%;
+    height: 50px;
+    
+}
+
+
+
+
+
